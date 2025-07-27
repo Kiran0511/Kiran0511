@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran M</h1>
-<h3 align="center">Software Developer & MCA Student Looking forward to work in an organization where I can learn and use my skills and knowledge to deliver value added results that provide me job satisfaction and self-development. Bengaluru 9739896965 kiranm1102@gmail.com</h3>
+<h3 align="center">Software Developer & MCA Student Looking forward to work in an organization where I can learn and use my skills and knowledge to deliver value added results that provide me job satisfaction and self-development. </h3>
 
 - 🔭 I’m currently working on **E-learning Platform**
 
