@@ -1,52 +1,85 @@
-<h1 align="center">Hi 👋, I'm Kiran M</h1>
-<h3 align="center">Software Developer | MCA Student | Passionate about Building Scalable Web Applications</h3>
+# 👋 Hi, I'm Kiran M
+
+🎓 MCA Student @ RV Institute of Technology and Management  
+🌐 Aspiring Full Stack Developer | Java & Node.js Enthusiast  
+📍 Bengaluru, India  
+📫 [Email](mailto:kiranm1102@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kiran-m-a3b52a274) | [GitHub](https://github.com/Kiran0511)
 
 ---
 
-🎯 I’m a dedicated software developer and MCA student with a strong interest in full-stack development, cloud technologies, and solving real-world problems through code. I’m currently building an E-learning platform to enhance digital education experiences.
+## 🧠 About Me
+
+I’m a software developer and postgraduate student passionate about solving real-world problems with scalable and secure web applications. I thrive in collaborative environments, enjoy backend-heavy projects, and love learning new technologies to stay future-ready.
 
 ---
 
-### 👨‍💻 About Me
-- 💡 I love transforming ideas into functional products that solve real problems.
-- 🎓 Currently pursuing MCA while actively building full-stack applications.
-- 🚀 Passionate about backend development, APIs, and system scalability.
-- 🌱 Continuously learning DevOps, cloud (AWS), and software architecture.
-- 🧩 Outside of coding, I enjoy reading, productivity challenges, and tech blogs.
+## 💼 Experience
+
+### Software Developer Intern – *Techciti Software Pvt Ltd* (Nov 2024 – Jan 2025)  
+- Built core modules for a secure online banking application using **Java, Spring Boot & MySQL**.  
+- Developed features like **user authentication**, **account management**, and **transaction processing**.
+
+### Full Stack Developer Intern – *Way 2 Websoft Technologies Pvt Ltd* (Jan 2023 – Mar 2023)  
+- Created a dynamic data-driven web app using **Node.js**, **Express.js**, and **MySQL**.  
+- Built APIs and integrated them with front-end UIs to support real-time operations.
 
 ---
 
-- 🔭 Currently working on: **E-learning Platform**
-- 📫 Reach me at: **kiranm1102@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1zEj36q2wBuPteS5cZk3cDFp0hAYsd-vr/view?usp=sharing)
+## 🚀 Projects
+
+### 🔐 Public Cloud-Based Secure File Sharing Platform  
+Designed and implemented a **Node.js-based** secure file sharing system using **RSA & AES encryption**.
+
+- 🛡️ Integrated **ClamAV** for virus scanning on file upload to ensure safety and compliance.  
+- ☁️ Used **AWS S3** for encrypted file storage and **Supabase** for user auth, role-based access, and logging.  
+- 🔐 Implemented **OTP-based 2FA** and **expiring access tokens** for strict access control.  
+- 🔄 Combined **asymmetric (RSA)** and **symmetric (AES)** encryption for secure file transfers.  
+- 📧 Enabled email notifications and verification through **SMTP**.
+
+**Tech Stack:** Node.js, Express, RSA, AES, AWS S3, Supabase, ClamAV, SMTP
+
+### 🏨 Hotel Management System (Full Stack)  
+- Designed a responsive hotel booking and user management platform.  
+- Technologies: **Node.js**, **Express**, **MySQL**, and **Bootstrap** for mobile-friendly UI.
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/kiran-m-a3b52a274" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/qa6md1lqyx/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2024 Finalist**  
+- 🏅 **MCA Academic Topper, 2024**  
+- 🥈 Runner-up, **Hackathon @ Bengaluru City University (INNOVEX 2025)**  
+- 🏆 Winner, **Coding & IT Quiz Competitions** at BMSIT, SIT, and St. Joseph’s College  
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Icons remain the same -->
-</p>
+## 📜 Certifications
+
+- ✅ AWS Cloud Foundations – Amazon Web Services  
+- 🔐 Ethical Hacking – VTU, 2024  
 
 ---
 
-### ⚡ Fun Facts
-- 🐞 Once debugged an issue for 6 hours that turned out to be a missing semicolon!
-- 💬 I believe clean code and great UX go hand in hand.
-- 👀 I love dissecting how apps are architected under the hood.
-- ☕ Fuelled by coffee and curiosity!
+## 💡 Skills
+
+**Languages & Frameworks:** Java, Node.js, Express.js, MySQL, MongoDB, Bootstrap  
+**Tools & Platforms:** AWS, Git, Keycloak, JWT, Linux  
+**Soft Skills:** Adaptability, Teamwork, Time Management, Problem Solving
 
 ---
 
-💬 *Always open to collaborate on innovative projects and learn from the community!*
+## 🌍 Languages Known
+
+English | Hindi | Kannada | Tamil
+
+---
+
+## ⚡ Fun Facts
+
+- 🐞 Spent hours debugging only to find a missing semicolon — we’ve all been there!
+- ☕ Addicted to productivity tools and experimenting with developer workflows.
+- ✍️ Occasionally write poems and tech notes to clear my head.
+
+---
+
+🔗 *Let’s connect, collaborate, and build something amazing together!*
